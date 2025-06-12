@@ -29,22 +29,6 @@ I’m **Stellah Wawira**, a Cybersecurity Analyst & IT Support Specialist with
 | Soft Skills         | Communication, Client Focus, Problem-solving, SLA management |
 
 ---
-
-## 📄 Certifications & Education
-
-- CompTIA Security+ (in progress / date)  
-- CEH (Certified Ethical Hacker) – expected (month/year)  
-- Bachelor of Science in Information Technology, University Name (Year)
-
----
-
-## 📂 Projects & Impact
-
-- ⚙️ **Automated Vulnerability Scanner**: Python tool removing 80% of manual scan efforts  
-- 🔑 **Phishing Awareness Campaign**: Trained 200+ users, reducing phishing click rate by 45%  
-- 🔐 **Network Segmentation & Firewall Audit**: Reduced attack surface by 60% and remediated 95% of critical vulnerabilities
-
----
 ## 📞 Contacts
 Email: stellahwawira18@gmail.com
 
