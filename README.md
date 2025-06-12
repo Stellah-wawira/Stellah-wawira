@@ -45,6 +45,16 @@ I’m **Stellah Wawira**, a Cybersecurity Analyst & IT Support Specialist with
 - 🔐 **Network Segmentation & Firewall Audit**: Reduced attack surface by 60% and remediated 95% of critical vulnerabilities
 
 ---
+## 📞 Contacts
+Email: stellahwawira18@gmail.com
+
+Phone: +254 792 320 880
+
+LinkedIn: https://www.linkedin.com/in/stellah-wawira-a010161ab/
+
+Github: https://github.com/Stellah-wawira
+
+- 
 
 
   
