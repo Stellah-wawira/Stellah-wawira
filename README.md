@@ -32,7 +32,6 @@ I’m **Stellah Wawira**, a Cybersecurity Analyst & IT Support Specialist with
 ## 📞 Contacts
 Email: stellahwawira18@gmail.com
 
-Phone: +254 792 320 880
 
 LinkedIn: https://www.linkedin.com/in/stellah-wawira-a010161ab/
 
