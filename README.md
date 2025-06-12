@@ -26,6 +26,12 @@ I’m **Stellah Wawira**, a Cybersecurity Analyst & IT Support Specialist with
 | Soft Skills         | Communication, Client Focus, Problem-solving, SLA management |
 
 ---
+## Achievements 
+https://academy.hackthebox.com/achievement/1918589/49
+https://academy.hackthebox.com/achievement/1918589/18
+https://academy.hackthebox.com/achievement/1918589/75
+
+---
 ## [Stellahcv.pdf](https://github.com/user-attachments/files/20705498/Stellahcv.pdf)
 
 
