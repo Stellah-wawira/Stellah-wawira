@@ -1,6 +1,3 @@
-# portfolio.github.io
-#  Personal Portfolio
-
 ## 🧰 About Me
 
 I’m **Stellah Wawira**, a Cybersecurity Analyst & IT Support Specialist with 4+ years of experience. I help organizations secure their systems, troubleshoot technical issues, and streamline operations—all while keeping users informed and systems safe.
