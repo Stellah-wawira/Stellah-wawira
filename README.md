@@ -26,8 +26,9 @@ I’m **Stellah Wawira**, a Cybersecurity Analyst & IT Support Specialist with
 | Soft Skills         | Communication, Client Focus, Problem-solving, SLA management |
 
 ---
-## [Resume](./https://github.com/Stellah-wawira/Stellah-wawira/blob/main/cv%20stellah.pdf)
----
+## [⬇ Download My CV](https://github.com/Stellah-wawira/Stellah-wawira/raw/main/cv-stellah.pdf)
+
+
 ## 📞 Contacts
 Email: stellahwawira18@gmail.com
 
